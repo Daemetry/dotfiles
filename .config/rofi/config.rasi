@@ -1,0 +1,10 @@
+configuration {
+  modi: "drun,run,window";
+  show-icons: true;
+  icon-theme: "Papirus";
+  display-drun: "Apps";
+  drun-display-format: "{name}";
+  window-format: "{w} · {t}";
+}
+
+@theme "Arc"
