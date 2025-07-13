@@ -1,0 +1,1 @@
+swww, waypaper for wallpapers (if quickshell doesn't cover that or if it requires external tooling for these things)
